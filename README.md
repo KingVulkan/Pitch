@@ -41,3 +41,7 @@ if anyone has question or wants to contribute to the project the please contact 
 7.Press Enter. Your local clone will be created.
 
 8.install the latest version of python3.6
+
+## Licence
+
+MIT licence. Copyright (c) 2018 Abdulrahman Abdullahi Omar .
