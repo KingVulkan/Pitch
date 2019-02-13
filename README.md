@@ -42,6 +42,14 @@ if anyone has question or wants to contribute to the project the please contact 
 
 8.install the latest version of python3.6
 
+## Behaviour driven development
+
+| Behaviour   |      Input     |  Output |
+|----------|:-------------:|------:|
+| Sign up | Enter email and password |   Sign in successful |
+| Log in | Enter email and password |   Login successful |
+| Pitch | Enter pitch and click submit button |  Pitch published successful |
+
 ## Licence
 
 MIT licence. Copyright (c) 2018 Abdulrahman Abdullahi Omar .
